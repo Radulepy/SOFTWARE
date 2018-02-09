@@ -1,9 +1,16 @@
 # SOFTWARE
+
 Software repository [PUTTY +]
+
 PUTTY COM PORT
+
 PUTTY PSFTP - SECURE FILE TRANSFER PROTOCOL (SSH) -> http://the.earth.li/~sgtatham/putty/0.52/htmldoc/Chapter6.html
+
 PUTTYGEN - KEY GENERATOR TOOL FOR CREATING SSH KEYS FOR PuTTY
+
 PUTTY PAGEANT - KEY SESION
+
 TCP VIEW - TCP VIEWER
+
 
 
